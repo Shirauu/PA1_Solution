@@ -25,7 +25,7 @@ class CalUtils:
             print("Read the first line")
             student = f.readline()
 
-            ##### while there is text in the line ########
+            ##### while there is text in the line ####
             while(len(student) > 0):
                 ##### add one to the count of the students ########
                 ##### remember to add self in front because you are using/modifying the object's properties ########
