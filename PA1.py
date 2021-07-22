@@ -69,7 +69,7 @@ class CalUtils:
         print("Rounding Method 2: Student average height is %.2f for %d students." %(avg, self.totalStudentCount))
         print("\n")
 
-        ##### Getting the new student's Name and Heightdfs ########
+        ##### Getting the new student's Name and Height ########
         newName = input("Enter New Student Name:")
         newHeight = input("Enter New Student Height (in metres):")
 
